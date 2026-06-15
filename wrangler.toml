@@ -6,7 +6,7 @@ pages_build_output_dir = "./build/client"
 [[d1_databases]]
 binding = "DB"
 database_name = "thyme-by-vine-db"
-database_id = "placeholder-replace-with-your-d1-database-id"
+database_id = "01ec1c99-d165-4e40-908e-70d7bcf01cf0"
 
 [vars]
 APP_URL = "http://localhost:5173"
