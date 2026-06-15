@@ -1,0 +1,13 @@
+node_modules/
+build/
+.cache/
+.wrangler/
+dist/
+
+# Environment secrets — never commit these
+.env
+.env.local
+.dev.vars
+
+# OS
+.DS_Store

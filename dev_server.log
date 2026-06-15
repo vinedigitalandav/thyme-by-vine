@@ -1,0 +1,20 @@
+
+> dev
+> remix vite:dev
+
+[33mThe CJS build of Vite's Node API is deprecated. See https://vite.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+Using vars defined in .dev.vars
+Using vars defined in .dev.vars
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+Clerk - DEPRECATION WARNING: @clerk/remix is now in maintenance mode.
+
+@clerk/remix will only receive security updates. No new features will be added.
+
+Please migrate to @clerk/react-router for continued development and new features:
+
+Migration guide: https://reactrouter.com/upgrading/remix
+React Router SDK: https://clerk.com/docs/quickstarts/react-router
+
